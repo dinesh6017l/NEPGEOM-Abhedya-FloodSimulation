@@ -625,3 +625,4 @@ class Application extends AppBase {
 }
 
 export default new Application();
+

@@ -330,3 +330,4 @@ class AppBase extends AppConfig {
 }
 
 export default AppBase;
+

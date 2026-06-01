@@ -64,3 +64,4 @@ MapLoader.hasMap = (config) => {
 };
 
 export default MapLoader;
+

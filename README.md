@@ -1,46 +1,83 @@
-# Flood Simulation Template
+# Web based urban flood simulation system using geospatial Technology for smart and hazard resilient urban planning.
 
-Demo application template built with the ArcGIS Maps SDK for JavaScript and Calcite Components.
+## Introduction to Rapid Urban Growth 
+- Rapid urbanization and climate change have intensified the risk of urban flooding, disrupting communities and damaging infrastructure.
 
-- [ArcGIS Maps SDK for Javascript](https://developers.arcgis.com/javascript/latest/api-reference/)
-- [Calcite Components](https://developers.arcgis.com/calcite-design-system/components/)
+- Geospatial technology provides advanced tools to analyze spatial data, model hydrological processes, and identify flood-prone areas.
 
-### Deploy
+- A web-based simulation system can integrate these capabilities to support smart, hazard-resilient urban planning and disaster preparedness.
+ 
 
-This demo is built as a _static_ web application.
+## Objectives
+- It aims to develop a web-based geospatial simulation system that can model and visualize urban flood scenarios under varying rainfall and land-use conditions.
 
-1. Download and copy the root folder to a web accessible location
-2. Update configuration parameters in application.json
+- It seeks to support smart and hazard-resilient urban planning by providing planners and policymakers with spatial insights for sustainable infrastructure and zoning decisions.
 
-### Configure
-
-Update the parameters in ./config/application.json file in your favorite json editor:
-
-|      parameter | details                                                           |
-|---------------:|-------------------------------------------------------------------|
-|  **portalUrl** | Organization or Enterprise URL; example: https://www.arcgis.com   |
-| **oauthappid** | The OAuth ID of the Web Application item                          |
-|   **authMode** | For public access set to 'anonymous' (and set oauthappid to null) |
-|     **apiKey** | ArcGIS Platform API key                                           |
-|     **webmap** | The item id of the web map                                        |
-|   **webscene** | The item id of the web scene                                      |
-|  **viewProps** | Additional view properties.                                       | 
-|  **shareable** | List of shareable properties                                      |
-|  **depthVariableName** | Multidimensional Variable                                 |
-|  **timeDimensionName** | Multidimensional Time Dimension                           |
-|  **depthUnit** | the name and label for the Detph variable                         |
+- It strives to strengthen disaster preparedness and community resilience by integrating hydrological and spatial data into a decision-support tool.
 
 
-### Web Map Layers Configuration
-This application expects the layers to be configured and organized in the Web Map as shown below.  If you organize and name the layers in this manner, then there is no need to modify any code.  
+## Limitations of Traditional Planning
+- Often fails to anticipate flood hazards.
 
-> EXCEPTION: the only exception is the layer called 'Stanwood Mitigation' which contains visual representations of the barriers and is optional; the absence of (or different name for) this layer will not affect the application code. 
-
-![web map layer config](/assets/WebMapLayerConfig.png)
+- Cities remain vulnerable to waterlogging, infrastructure damage, and community disruption.
 
 
-#### For questions about the demo web application:
+## Methodology
+- Data Collection: Gather spatial datasets (land use, drainage networks, DEMs, rainfall records).
 
-> John Grayson | Prototype Specialist | Geo Experience Center\
-> Esri | 380 New York St | Redlands, CA 92373 | USA\
-> T 909 793 2853 x1609 | [jgrayson@esri.com](mailto:jgrayson@esri.com) | [GeoXC Demos](https://geoxc.esri.com) | [esri.com](https://www.esri.com)
+- Hydrological Modeling: Apply flood simulation models to predict water flow, accumulation, and inundation zones.
+
+- Geospatial Integration: Use GIS tools to overlay hazard maps with urban infrastructure and population density.
+
+- Web-Based Platform: Develop an interactive interface for visualization, scenario testing, and decision support.
+
+- Validation: Compare simulation outputs with historical flood events for accuracy.
+
+
+## Proposed Solution: Web-Based Flood Simulation
+- Powered by geospatial technology.
+
+- Integrates real-time spatial data, hydrological models, and hazard mapping.
+
+- Develop a web-based simulation system that uses geospatial data to predict and visualize urban flood scenarios.
+
+- Integrate GIS-based hazard maps with land use and infrastructure data to guide smart and resilient urban planning.
+
+- Provide a decision-support tool with real-time data and scenario testing to improve disaster preparedness and community resilience.
+
+
+## Benefits for Urban Planners
+- Visualize flood scenarios under different growth patterns.
+
+- Assess impacts of urban expansion on flood risk.
+
+- Design smart, resilient strategies for disaster preparedness.
+
+
+## Data Resources:
+
+
+
+
+
+
+
+## Expected Outcome:
+
+- A functional web-based simulation system accessible to planners, policymakers, and researchers.
+
+- Interactive flood hazard maps showing vulnerable zones under different rainfall and urbanization scenarios.
+
+- Decision-support tools for smart zoning, infrastructure design, and emergency response planning.
+
+- Enhanced capacity for hazard-resilient urban planning in rapidly growing cities.
+
+
+
+
+
+
+## References
+
+
+

@@ -81,3 +81,4 @@ GroupLoader.hasGroup = (config) => {
 };
 
 export default GroupLoader;
+

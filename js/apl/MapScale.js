@@ -117,3 +117,4 @@ class MapScale extends HTMLElement {
 customElements.define("apl-map-scale", MapScale);
 
 export default MapScale;
+

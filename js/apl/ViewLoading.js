@@ -96,3 +96,4 @@ class ViewLoading extends HTMLElement {
 customElements.define("apl-view-loading", ViewLoading);
 
 export default ViewLoading;
+

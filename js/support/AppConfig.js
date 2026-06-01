@@ -165,3 +165,4 @@ class AppConfig extends EventTarget {
 }
 
 export default AppConfig;
+
