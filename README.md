@@ -55,10 +55,9 @@
 
 
 ## Data Resources:
-
-
-
-
+ArcGIS Maps SDK for JavaScript API (v4.30)
+ArcGIS Platform REST APIs
+Chart.js API (v4.4.1)
 
 
 
@@ -78,6 +77,14 @@
 
 
 ## References
-
-
-
+- ArcGIS Maps SDK for JavaScript API Reference: https://developers.arcgis.com/javascript/latest/api-reference/
+- Calcite Design System Components Documentation: https://developers.arcgis.com/calcite-design-system/components/
+- Esri Corporate Homepage: https://www.esri.com
+- Esri Geo Experience Center (GeoXC) Demos: https://geoxc.esri.com
+- External Library CDN References (From index.html)
+- Chart.js Documentation: https://www.chartjs.org/
+- Chart.js CDN (Library): https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js
+- Calcite Components ESM Module (JS): https://js.arcgis.com/calcite-components/2.10.1/calcite.esm.js
+- Calcite Components Theme (CSS): https://js.arcgis.com/calcite-components/2.10.1/calcite.css
+- ArcGIS Maps SDK for JavaScript (JS API): https://js.arcgis.com/4.30/
+- ArcGIS Maps SDK Dark Theme (CSS): https://js.arcgis.com/4.30/@arcgis/core/assets/esri/themes/dark/main.css
