@@ -49,7 +49,7 @@
 ## Benefits for Urban Planners
 - Visualize flood scenarios under different growth patterns.
 
-- Assess impacts of urban expansion on flood risk.
+- Assess impacts of urban expansion on flood risk..
 
 - Design smart, resilient strategies for disaster preparedness.
 
